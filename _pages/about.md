@@ -13,6 +13,4 @@ I'm a fourth year undergraduate student from [School of CEIE](https://ceie.szu.e
 
 I am very fortunate to be advised by [Prof. Wang](haowang@szu.edu.cn) from [School of CEIE](https://ceie.szu.edu.cn/), Shenzhen University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:2021280274@szu.edu.cn) / [Github](https://github.com/adCL8) 
